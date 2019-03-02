@@ -1,0 +1,8 @@
+In each room we will have a GPS module from which we can get the cordinates of the room and data of the coordinates will 
+store in the cloud.
+now when use clicks or ask for perticular room then from cloud data we will highlight loction of that room on the MAP.
+And we are still thinking how to provide the shortest way.
+
+Now if some group is arrived and that group member want to know where is my group partner then in starting we will make group in 
+our application which share's common key between group memebers.
+so using google map API those who has same key they can see each other on that map.
